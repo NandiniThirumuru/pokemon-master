@@ -1,0 +1,22 @@
+.Navbar {
+   text-align: right;
+    padding: 20px;
+}
+button{
+    background-color: green;
+    color: white;
+    margin:4px;
+    border: 5px;
+}
+.prev{
+    background-color: brown;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.next{
+    float:right;
+    margin-top:30px ;
+    margin-right: 300px;
+    
+    
+}
